@@ -10,7 +10,7 @@ MAIN_TEMPLATE = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ULTIMATE FACEBOOK TOOLKIT</title>
+    <title>NAWAB FACEBOOK TOOLKIT</title>
 <style>
     :root {
         --primary: #ff2d75;
